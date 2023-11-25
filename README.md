@@ -2,6 +2,8 @@ Olá! eu sou o Davidson Junio 👋
 Meu objetivo é atuar na área de Back-end de Desenvolvimento Web, com foco na linguagem Python e no Django.
 
 ⌨Linguagem 
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### <strong>🛠 Ferramentas</strong>
