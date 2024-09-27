@@ -62,14 +62,6 @@ Gostaria de contribuir para projetos de código aberto. Se você tiver um projet
 
 Adoro conhecer novos desenvolvedores e compartilhar conhecimento! Sinta-se à vontade para me adicionar!
 
----
-
-## Meus projetos
-
-- [Gerenciador de Tarefas](https://github.com/david0407j/gerenciador-tarefas): Aplicação web em Django para gerenciamento de tarefas.
-- [Portfólio Pessoal](https://github.com/david0407j/portfolio): Meu site pessoal desenvolvido com Django.
-
----
 
 ### 🎨 Estilo de commits
 
