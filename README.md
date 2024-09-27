@@ -22,13 +22,6 @@ Meu objetivo é atuar na área de Back-end de Desenvolvimento Web, com foco na l
 <a href='https://www.linkedin.com/in/davidson-castro-741323241/' target='_blank'>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href='mailto:djunio239@gmail.com' target='_blank'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-## Informações Pessoais
-**Nome:** Davidson Junio de Castro  
-**Idade:** 30 anos  
-**Localização:** Belo Horizonte, Minas Gerais, Brasil  
-**E-mail:** djunio239@gmail.com  
-**Telefone:** +55 31 99987-7987  
-
 ## Objetivo Profissional
 Busco uma oportunidade como Desenvolvedor Back-End Júnior, com foco em Python e Django, onde eu possa aplicar minhas habilidades técnicas, adquirir experiência prática e contribuir para o desenvolvimento de soluções eficientes e inovadoras.
 
@@ -67,10 +60,4 @@ Controle de acesso, atendimento ao público, recebimento de encomendas e corresp
 - Python Birds, DevPro (Outubro 2022) – Curso avançado de Python, incluindo manipulação de dados e automação.
 - Banco de Dados e Docker, DevPro (2023) – Criação e gestão de ambientes de banco de dados com Docker.
 - Curso de Inglês, EF Education First (terminará em 05/09/2025) – do básico ao avançado.
-
-## Publicações
-- **Repositório GitHub:** [GitHub](https://github.com/david0407j) - Aonde estão todos os meus códigos e projetos desenvolvidos ao longo do tempo.
-
-## Informações Adicionais
-- Carteira Nacional de Habilitação.
 
