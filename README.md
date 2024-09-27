@@ -52,6 +52,16 @@ Meu objetivo é atuar na área de **Back-end de Desenvolvimento Web**, com foco 
 - 📦 Versionamento: Utilizo **Git** e **GitHub** para gerenciar projetos e colaborar com outros desenvolvedores.
 - 🌐 Front-end: Tenho conhecimento em **HTML**, **CSS** e **Bootstrap**.
 
+### 🛠 Ferramentas e Tecnologias
+
+- **Linguagens**: Python (avançado), SQL (intermediário)
+- **Frameworks**: Django, Docker
+- **Controle de Versão**: Git, GitHub
+- **Sistemas Operacionais**: Linux, Ubuntu, Windows
+- **Ambientes de Desenvolvimento**: VSCode, PyCharm
+- **Banco de Dados**: SQL (Docker)
+
+
 ---
 
 ### 🌱 Estou aprendendo
