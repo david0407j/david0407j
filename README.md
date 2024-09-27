@@ -5,6 +5,15 @@
 Meu objetivo é atuar na área de **Back-end de Desenvolvimento Web**, com foco na linguagem **Python** e no **Django**.
 
 ---
+<div align="center">
+  <a href="https://github.com/david0407j">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=david0407j&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david0407j&hide=Jupyter%20Notebook,Java,CSS,Jinja,Shell,Makefile,Mako&langs_count=5&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
+
 
 ### ⌨️ Linguagem
 
