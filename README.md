@@ -2,9 +2,9 @@
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=davidson0407&repo=davidson0407&countColorcountColor&countColor=%237B1E7A)
 
-Hello! I'm Davidson Junio, and I live in Belo Horizonte, Minas Gerais, Brazil.
+Olá! Eu sou o Davidson Junio, e moro em Belo Horizonte, Minas Gerais, Brasil.
 <br>
-My goal is to work in the Back-end area of Web Development, with a focus on the Python language and the Django Framework.
+Meu objetivo é atuar na área de Back-end de Desenvolvimento Web, com foco na linguagem Python e no framework Django.
 
 ### <strong>⌨ Linguagem</strong> ️
 
@@ -32,5 +32,6 @@ My goal is to work in the Back-end area of Web Development, with a focus on the 
 
 <a href='https://www.linkedin.com/in/davidson-castro-741323241/' target='_blank'>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href='mailto:djunio239@gmail.com' target='_blank'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 
 
