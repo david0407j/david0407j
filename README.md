@@ -17,27 +17,30 @@ Meu objetivo é atuar na área de **Back-end de Desenvolvimento Web**, com foco 
 
 ### ⌨️ Linguagem
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🪨 Back-end： 
+ ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+ ![Django](https://img.shields.io/badge/-Django-yellow?style=flat-circle&logo=Django)
 
 ### 🛠️ Ferramentas
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-gray.svg?logo=visualstudiocode)
+  ![Git](https://img.shields.io/badge/Git-yellow?style=flat-circle&logo=git)
+  ![Shell](https://img.shields.io/badge/Shell-red?style=flat-circle&logo=shell)
+  ![Linux](https://img.shields.io/badge/Linux-gray?style=flat-circle&logo=Linux)
+  ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub)
+  ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-circle&logo=markdown)
+  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+  ![PyTest](https://img.shields.io/badge/-PyTest-blue?style=flat-circle&logo=PyTest)
 
-### 💻 Sistemas Operacionais
+☁️ Cloud：
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+   ![Fly.io](https://img.shields.io/badge/Fly.io-7c3aed?style=flat-circle&logo=Flyio&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- 🎲 Database：
+ ![Postgres](https://img.shields.io/badge/PostgreSQL-c5c5c5?style=flat-circle&logo=PostgreSQL)
 
-### 🖥️ IDE
-
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
+- 🚀 Others:
+  ![GA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-circle&logo=github-actions&logoColor=white)
 
 ### 📫 Contato
 
