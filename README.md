@@ -94,6 +94,5 @@ Os commits que faço são organizados da seguinte forma:
 - **style**: Alterações de estilo (sem mudar a lógica)
 - **refactor**: Refatoração de código
 - **test**: Adição de testes
-###
+
 <img src="https://raw.githubusercontent.com/JayfckZ/JayfckZ/output/snake.svg" alt="Snake animation" />
-###
