@@ -47,7 +47,7 @@ Meu objetivo é atuar na área de **Back-end de Desenvolvimento Web**, com foco 
   <a href="https://www.linkedin.com/in/davidson-castro-741323241/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="mailto:djunio239@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="http://wa.me/5531999877987" target="_blank">
