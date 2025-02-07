@@ -20,6 +20,7 @@ Meu objetivo é atuar na área de **Back-end de Desenvolvimento Web**, com foco 
 - 🪨 Back-end： 
  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
  ![Django](https://img.shields.io/badge/-Django-yellow?style=flat-circle&logo=Django)
+ ![API-REST](https://img.shields.io/badge/API-REST-ff1709?style=flat-circle&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 - 💻 Front-end： 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
