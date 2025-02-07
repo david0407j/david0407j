@@ -21,6 +21,12 @@ Meu objetivo é atuar na área de **Back-end de Desenvolvimento Web**, com foco 
  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
  ![Django](https://img.shields.io/badge/-Django-yellow?style=flat-circle&logo=Django)
 
+- 💻 Front-end： 
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
+ ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) 
+ ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-circle&logo=bootstrap&logoColor=white)
+
 ### 🛠️ Ferramentas
 
 ![VS Code](https://img.shields.io/badge/vscode-gray.svg?logo=visualstudiocode)
@@ -35,6 +41,7 @@ Meu objetivo é atuar na área de **Back-end de Desenvolvimento Web**, com foco 
 ☁️ Cloud：
   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
    ![Fly.io](https://img.shields.io/badge/Fly.io-7c3aed?style=flat-circle&logo=Flyio&logoColor=white)
+   ![Vercel](https://img.shields.io/badge/Vercel-green?style=flat-circle&logo=Vercel&logoColor=white)
 
 - 🎲 Database：
  ![Postgres](https://img.shields.io/badge/PostgreSQL-c5c5c5?style=flat-circle&logo=PostgreSQL)
